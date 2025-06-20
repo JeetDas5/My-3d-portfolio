@@ -8,16 +8,18 @@ const Footer = () => {
       </div>
       <div className="flex gap-3">
         <div className="social-icon">
-          <img src="/assets/github.svg" alt="GitHub" className="w-1/2 h-1/2" />
+          <img src="/assets/github.svg" alt="GitHub" className="w-1/2 h-1/2 cursor-pointer" onClick={() => window.open("https://github.com/JeetDas5", "_blank")} />
           <img
-            src="/assets/instagram.svg"
-            alt="Instagram"
-            className="w-1/2 h-1/2"
+            src="/assets/linkedin.svg"
+            alt="LinkedIn"
+            className="w-1/2 h-1/2 cursor-pointer bg-white"
+            onClick={() => window.open("https://linkedin.com/in/jeet-das-7633a52ab", "_blank")}
           />
           <img
             src="/assets/twitter.svg"
             alt="Twitter"
-            className="w-1/2 h-1/2"
+            className="w-1/2 h-1/2 cursor-pointer"
+            onClick={() => window.open("https://x.com/I_am_Jeet5", "_blank")}
           />
         </div>
       </div>
