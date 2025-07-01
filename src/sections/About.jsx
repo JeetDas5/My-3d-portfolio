@@ -38,7 +38,7 @@ const About = () => {
         <div className="col-span-1 xl:row-span-3">
           <div className="grid-container">
             <img
-              src="assets/grid2.png"
+              src="assets/grid22.png"
               alt="grid-2"
               className="w-full sm:h-[276px] h-fit object-contain"
             />
@@ -79,7 +79,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">I work remotely from India.</p>
               <p className="grid-subtext">
-                I&apos;m based Bhubaneswar, Odisha, India. Let's connect.
+                I&apos;m based on Bhubaneswar, Odisha, India. Let's connect.
               </p>
               <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
             </div>

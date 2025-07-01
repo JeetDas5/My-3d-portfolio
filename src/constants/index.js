@@ -27,7 +27,7 @@ export const myProjects = [
     desc: "LearnSphere is a modern SaaS learning platform that empowers users to interact with AI-powered voice tutors. Built for scalability, interactivity, and ease of use, LearnSphere leverages the latest web technologies to deliver an immersive educational experience tailored to your needs.",
     subdesc:
       "Built as a unique Software-as-a-Service app with Next.js 15, Tailwind CSS, TypeScript and Vapi voice agent.",
-    href: "learnsphere.jeetdas.tech",
+    href: "https://learnsphere.jeetdas.tech",
     texture: "/textures/project/Learnsphere.mp4",
     logo: "/assets/learnsphere.png",
     logoStyle: {
@@ -59,7 +59,7 @@ export const myProjects = [
     desc: "Vocify is a full-stack web application that enables users to conduct mock interviews with an AI interviewer tailored to their preferences. It provides realistic interview simulations and generates personalized feedback to help users improve their communication and technical skills.",
     subdesc:
       "Vocify is built with React Js, Tailwind CSS, and Vapi voice agent, ensuring a modern and responsive user experience.",
-    href: "vocify.jeetdas.tech",
+    href: "https://vocify.jeetdas.tech",
     texture: "/textures/project/Vocify.mp4",
     logo: "/assets/vocify.png",
     logoStyle: {
@@ -145,7 +145,7 @@ export const workExperiences = [
     pos: "Administrator",
     duration: "2023 - Present",
     title:
-      "Organised few events like Genesis-speaker session, Relaython-3 hour hackathon. Currently serving as POC of AI/ML domain. In this role, I am responsible for overseeing the development and implementation of AI/ML projects, ensuring they align with the chapter's goals and objectives.",
+      "Organised few events like Genesis-speaker session, Trapped-gaming event. Currently serving as POC of AI/ML domain. In this role, I am responsible for overseeing the development and implementation of AI/ML projects, ensuring they align with the chapter's goals and objectives.",
     icon: "/assets/gfg.jpg",
     animation: "salute",
   },
